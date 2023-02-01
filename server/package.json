@@ -1,0 +1,7 @@
+{
+  "name": "webrtc-demo",
+  "private": true,
+  "dependencies": {
+    "socket.io": "^2.5.0"
+  }
+}
